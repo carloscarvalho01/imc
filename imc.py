@@ -63,7 +63,7 @@ if imc < 18.5:
 elif imc < 25:
     classificacao = "Peso adequado"
 elif imc < 30:
-    classificacao = "Sobrepesooooo"
+    classificacao = "Sobrepeso"
 elif imc < 35:
     classificacao = "Obesidade grau I"
 elif imc < 40:
